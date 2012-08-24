@@ -1,0 +1,4 @@
+coffeescript-demos
+==================
+
+Coffeescript examples
